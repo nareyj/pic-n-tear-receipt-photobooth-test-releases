@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1-test",
+  "tag": "v1.0.1-test",
+  "apkFileName": "PicnTear-Receipt-Photobooth-v1.0.1-test.apk",
+  "apkDownloadUrl": "https://github.com/nareyj/pic-n-tear-receipt-photobooth-test-releases/releases/download/v1.0.1-test/PicnTear-Receipt-Photobooth-v1.0.1-test.apk",
+  "sha256": "24C694A124C0806034678ABA32AAD970F0B2F5E2ADD48558C498B25BF4B84B67",
+  "releaseNotes": "Temporary internal test release for validating the Pic ’n Tear in-app update flow."
+}
